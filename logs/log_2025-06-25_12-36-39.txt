@@ -1,0 +1,208 @@
+[2025-06-25 12:36:39] Received: Timestamp: 1750835201.697970    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 12:36:40] Received: Timestamp: 1750835202.195431    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 12:36:40] Received: Timestamp: 1750835202.692873    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 12:36:41] Received: Timestamp: 1750835203.190332    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 12:36:41] Error: Unexpected value received: {value[0]} at attempt {attempt + 1}
+
+[2025-06-25 12:36:41] Error: Unexpected value received: {value[0]} at attempt {attempt + 1}
+
+[2025-06-25 12:36:41] Error: Unexpected value received: {value[0]} at attempt {attempt + 1}
+
+[2025-06-25 12:36:41] Error: Unexpected value received: {value[0]} at attempt {attempt + 1}
+
+[2025-06-25 12:36:42] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:43] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:44] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:45] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:46] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:47] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:48] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:50] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:51] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:52] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:53] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:54] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:55] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:56] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:57] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:58] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:36:59] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:01] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:02] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:03] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:04] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:05] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:06] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:07] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:08] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:09] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:10] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:11] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:12] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:13] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:15] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:16] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:17] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:18] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:19] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:20] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:21] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:22] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:23] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:24] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:26] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:27] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:28] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:29] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:30] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:31] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:32] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:33] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:34] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:35] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:36] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:38] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:39] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:40] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:41] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:42] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:43] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:44] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:45] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:46] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:47] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:48] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:50] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:51] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:52] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:53] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:54] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:55] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:56] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:57] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:58] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:37:59] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:00] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:02] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:03] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:04] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:05] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:06] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:07] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:08] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:09] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:10] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:11] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:12] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:14] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:15] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:16] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:17] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:18] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:19] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:20] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:21] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:22] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:23] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:25] Error: No data received at attempt {attempt + 1}
+
+[2025-06-25 12:38:26] Error: No data received at attempt {attempt + 1}
+
