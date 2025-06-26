@@ -1,0 +1,42 @@
+[2025-06-26 16:32:17] Received: Timestamp: 1750935742.253328    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:32:17] Received: Timestamp: 1750935742.750600    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:32:18] Received: Timestamp: 1750935743.247902    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:32:18] Received: Timestamp: 1750935743.745174    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:32:23] Received: Timestamp: 1750935748.250212    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 16:32:23] First Frame sent successfully
+
+[2025-06-26 16:32:23] Received: Timestamp: 1750935748.280633    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 16:32:23] Message sent successfully
+
+[2025-06-26 16:32:23] Received: Timestamp: 1750935748.429196    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 16:32:23] id_rx
+
+[2025-06-26 16:32:33] Received: Timestamp: 1750935758.265720    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:32:43] Received: Timestamp: 1750935768.212071    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:32:53] Received: Timestamp: 1750935778.157629    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:33:03] Received: Timestamp: 1750935788.102689    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:33:13] Received: Timestamp: 1750935798.048973    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:33:23] Received: Timestamp: 1750935807.994899    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:33:33] Received: Timestamp: 1750935817.941416    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:33:42] Received: Timestamp: 1750935827.887719    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:33:52] Received: Timestamp: 1750935837.833168    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:34:02] Received: Timestamp: 1750935847.778338    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 16:34:12] Received: Timestamp: 1750935857.723369    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+

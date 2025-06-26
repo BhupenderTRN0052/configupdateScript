@@ -1,0 +1,444 @@
+[2025-06-25 20:49:15] Received: Timestamp: 1750864757.884609    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 20:49:16] Received: Timestamp: 1750864758.382308    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 20:49:16] Received: Timestamp: 1750864758.879942    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 20:49:17] Received: Timestamp: 1750864759.377598    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-25 20:49:25] Received: Timestamp: 1750864767.977019    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-25 20:49:25] First Frame sent successfully
+
+[2025-06-25 20:49:26] Received: Timestamp: 1750864768.375264    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:26] Message sent successfully
+
+[2025-06-25 20:49:28] no id_rx
+
+[2025-06-25 20:49:28] First Frame sent successfully
+
+[2025-06-25 20:49:30] send failed
+
+[2025-06-25 20:49:30] First Frame sent successfully
+
+[2025-06-25 20:49:30] Received: Timestamp: 1750864772.854449    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:30] Message sent successfully
+
+[2025-06-25 20:49:30] Received: Timestamp: 1750864772.953989    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:32] no id_rx
+
+[2025-06-25 20:49:32] First Frame sent successfully
+
+[2025-06-25 20:49:34] send failed
+
+[2025-06-25 20:49:34] First Frame sent successfully
+
+[2025-06-25 20:49:36] send failed
+
+[2025-06-25 20:49:36] First Frame sent successfully
+
+[2025-06-25 20:49:37] Received: Timestamp: 1750864779.324968    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:37] Message sent successfully
+
+[2025-06-25 20:49:37] Received: Timestamp: 1750864779.424508    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:37] Received: Timestamp: 1750864779.524048    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:39] no id_rx
+
+[2025-06-25 20:49:39] First Frame sent successfully
+
+[2025-06-25 20:49:41] send failed
+
+[2025-06-25 20:49:41] First Frame sent successfully
+
+[2025-06-25 20:49:43] send failed
+
+[2025-06-25 20:49:43] First Frame sent successfully
+
+[2025-06-25 20:49:43] Received: Timestamp: 1750864785.795081    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:43] Message sent successfully
+
+[2025-06-25 20:49:43] Received: Timestamp: 1750864785.894621    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:43] Received: Timestamp: 1750864785.994161    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:45] no id_rx
+
+[2025-06-25 20:49:45] First Frame sent successfully
+
+[2025-06-25 20:49:47] send failed
+
+[2025-06-25 20:49:47] First Frame sent successfully
+
+[2025-06-25 20:49:49] send failed
+
+[2025-06-25 20:49:49] First Frame sent successfully
+
+[2025-06-25 20:49:50] Received: Timestamp: 1750864792.265093    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:50] Message sent successfully
+
+[2025-06-25 20:49:50] Received: Timestamp: 1750864792.364632    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:50] Received: Timestamp: 1750864792.464172    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-25 20:49:52] no id_rx
+
+[2025-06-25 20:49:52] First Frame sent successfully
+
+[2025-06-25 20:49:54] send failed
+
+[2025-06-25 20:49:54] First Frame sent successfully
+
+[2025-06-25 20:49:56] send failed
+
+[2025-06-25 20:49:56] First Frame sent successfully
+
+[2025-06-25 20:51:30] send failed
+
+[2025-06-25 20:51:30] First Frame sent successfully
+
+[2025-06-25 20:51:32] send failed
+
+[2025-06-25 20:51:32] First Frame sent successfully
+
+[2025-06-25 20:51:34] send failed
+
+[2025-06-25 20:51:34] First Frame sent successfully
+
+[2025-06-25 20:51:36] send failed
+
+[2025-06-25 20:51:36] First Frame sent successfully
+
+[2025-06-25 20:51:38] send failed
+
+[2025-06-25 20:51:38] First Frame sent successfully
+
+[2025-06-25 23:49:34] send failed
+
+[2025-06-25 23:49:34] First Frame sent successfully
+
+[2025-06-25 23:49:36] send failed
+
+[2025-06-25 23:49:36] First Frame sent successfully
+
+[2025-06-25 23:49:38] send failed
+
+[2025-06-25 23:49:38] First Frame sent successfully
+
+[2025-06-25 23:49:40] send failed
+
+[2025-06-25 23:49:40] First Frame sent successfully
+
+[2025-06-25 23:49:42] send failed
+
+[2025-06-25 23:49:42] First Frame sent successfully
+
+[2025-06-25 23:49:44] send failed
+
+[2025-06-25 23:49:44] First Frame sent successfully
+
+[2025-06-25 23:49:47] send failed
+
+[2025-06-25 23:49:47] First Frame sent successfully
+
+[2025-06-25 23:49:49] send failed
+
+[2025-06-25 23:49:49] First Frame sent successfully
+
+[2025-06-25 23:49:51] send failed
+
+[2025-06-25 23:49:51] First Frame sent successfully
+
+[2025-06-25 23:49:53] send failed
+
+[2025-06-25 23:49:53] First Frame sent successfully
+
+[2025-06-25 23:49:55] send failed
+
+[2025-06-25 23:49:55] First Frame sent successfully
+
+[2025-06-25 23:49:57] send failed
+
+[2025-06-25 23:49:57] First Frame sent successfully
+
+[2025-06-25 23:49:59] send failed
+
+[2025-06-25 23:49:59] First Frame sent successfully
+
+[2025-06-25 23:50:01] send failed
+
+[2025-06-25 23:50:01] First Frame sent successfully
+
+[2025-06-25 23:50:03] send failed
+
+[2025-06-25 23:50:03] First Frame sent successfully
+
+[2025-06-25 23:50:05] send failed
+
+[2025-06-25 23:50:05] First Frame sent successfully
+
+[2025-06-25 23:50:07] send failed
+
+[2025-06-25 23:50:07] First Frame sent successfully
+
+[2025-06-25 23:50:09] send failed
+
+[2025-06-25 23:50:09] First Frame sent successfully
+
+[2025-06-25 23:50:12] send failed
+
+[2025-06-25 23:50:12] First Frame sent successfully
+
+[2025-06-25 23:50:14] send failed
+
+[2025-06-25 23:50:14] First Frame sent successfully
+
+[2025-06-25 23:50:16] send failed
+
+[2025-06-25 23:50:16] First Frame sent successfully
+
+[2025-06-25 23:50:18] send failed
+
+[2025-06-25 23:50:18] First Frame sent successfully
+
+[2025-06-25 23:50:20] send failed
+
+[2025-06-25 23:50:20] First Frame sent successfully
+
+[2025-06-25 23:50:22] send failed
+
+[2025-06-25 23:50:22] First Frame sent successfully
+
+[2025-06-25 23:50:24] send failed
+
+[2025-06-25 23:50:24] First Frame sent successfully
+
+[2025-06-25 23:50:26] send failed
+
+[2025-06-25 23:50:26] First Frame sent successfully
+
+[2025-06-25 23:50:28] send failed
+
+[2025-06-25 23:50:28] First Frame sent successfully
+
+[2025-06-25 23:50:30] send failed
+
+[2025-06-25 23:50:30] First Frame sent successfully
+
+[2025-06-25 23:50:32] send failed
+
+[2025-06-25 23:50:32] First Frame sent successfully
+
+[2025-06-25 23:50:34] send failed
+
+[2025-06-25 23:50:34] First Frame sent successfully
+
+[2025-06-25 23:50:36] send failed
+
+[2025-06-25 23:50:36] First Frame sent successfully
+
+[2025-06-25 23:50:39] send failed
+
+[2025-06-25 23:50:39] First Frame sent successfully
+
+[2025-06-25 23:50:41] send failed
+
+[2025-06-25 23:50:41] First Frame sent successfully
+
+[2025-06-25 23:50:43] send failed
+
+[2025-06-25 23:50:43] First Frame sent successfully
+
+[2025-06-25 23:50:45] send failed
+
+[2025-06-25 23:50:45] First Frame sent successfully
+
+[2025-06-25 23:50:47] send failed
+
+[2025-06-25 23:50:47] First Frame sent successfully
+
+[2025-06-25 23:50:49] send failed
+
+[2025-06-25 23:50:49] First Frame sent successfully
+
+[2025-06-25 23:50:51] send failed
+
+[2025-06-25 23:50:51] First Frame sent successfully
+
+[2025-06-25 23:50:53] send failed
+
+[2025-06-25 23:50:53] First Frame sent successfully
+
+[2025-06-25 23:50:55] send failed
+
+[2025-06-25 23:50:55] First Frame sent successfully
+
+[2025-06-25 23:50:57] send failed
+
+[2025-06-25 23:50:57] First Frame sent successfully
+
+[2025-06-25 23:50:59] send failed
+
+[2025-06-25 23:50:59] First Frame sent successfully
+
+[2025-06-25 23:51:01] send failed
+
+[2025-06-25 23:51:01] First Frame sent successfully
+
+[2025-06-25 23:51:03] send failed
+
+[2025-06-25 23:51:03] First Frame sent successfully
+
+[2025-06-25 23:51:06] send failed
+
+[2025-06-25 23:51:06] First Frame sent successfully
+
+[2025-06-25 23:51:08] send failed
+
+[2025-06-25 23:51:08] First Frame sent successfully
+
+[2025-06-25 23:51:10] send failed
+
+[2025-06-25 23:51:10] First Frame sent successfully
+
+[2025-06-25 23:51:12] send failed
+
+[2025-06-25 23:51:12] First Frame sent successfully
+
+[2025-06-25 23:51:14] send failed
+
+[2025-06-25 23:51:14] First Frame sent successfully
+
+[2025-06-25 23:51:16] send failed
+
+[2025-06-25 23:51:16] First Frame sent successfully
+
+[2025-06-25 23:51:18] send failed
+
+[2025-06-25 23:51:18] First Frame sent successfully
+
+[2025-06-25 23:51:20] send failed
+
+[2025-06-25 23:51:20] First Frame sent successfully
+
+[2025-06-25 23:51:22] send failed
+
+[2025-06-25 23:51:22] First Frame sent successfully
+
+[2025-06-25 23:51:24] send failed
+
+[2025-06-25 23:51:24] First Frame sent successfully
+
+[2025-06-25 23:51:26] send failed
+
+[2025-06-25 23:51:26] First Frame sent successfully
+
+[2025-06-25 23:51:28] send failed
+
+[2025-06-25 23:51:28] First Frame sent successfully
+
+[2025-06-25 23:51:31] send failed
+
+[2025-06-25 23:51:31] First Frame sent successfully
+
+[2025-06-25 23:51:33] send failed
+
+[2025-06-25 23:51:33] First Frame sent successfully
+
+[2025-06-25 23:51:35] send failed
+
+[2025-06-25 23:51:35] First Frame sent successfully
+
+[2025-06-25 23:51:37] send failed
+
+[2025-06-25 23:51:37] First Frame sent successfully
+
+[2025-06-25 23:51:39] send failed
+
+[2025-06-25 23:51:39] First Frame sent successfully
+
+[2025-06-25 23:51:41] send failed
+
+[2025-06-25 23:51:41] First Frame sent successfully
+
+[2025-06-25 23:51:43] send failed
+
+[2025-06-25 23:51:43] First Frame sent successfully
+
+[2025-06-25 23:51:45] send failed
+
+[2025-06-25 23:51:45] First Frame sent successfully
+
+[2025-06-25 23:51:47] send failed
+
+[2025-06-25 23:51:47] First Frame sent successfully
+
+[2025-06-25 23:51:49] send failed
+
+[2025-06-25 23:51:49] First Frame sent successfully
+
+[2025-06-25 23:51:51] send failed
+
+[2025-06-25 23:51:51] First Frame sent successfully
+
+[2025-06-25 23:51:53] send failed
+
+[2025-06-25 23:51:53] First Frame sent successfully
+
+[2025-06-25 23:51:55] send failed
+
+[2025-06-25 23:51:55] First Frame sent successfully
+
+[2025-06-25 23:51:58] send failed
+
+[2025-06-25 23:51:58] First Frame sent successfully
+
+[2025-06-25 23:52:00] send failed
+
+[2025-06-25 23:52:00] First Frame sent successfully
+
+[2025-06-25 23:52:02] send failed
+
+[2025-06-25 23:52:02] First Frame sent successfully
+
+[2025-06-25 23:52:04] send failed
+
+[2025-06-25 23:52:04] First Frame sent successfully
+
+[2025-06-25 23:52:06] send failed
+
+[2025-06-25 23:52:06] First Frame sent successfully
+
+[2025-06-25 23:52:08] send failed
+
+[2025-06-25 23:52:08] First Frame sent successfully
+
+[2025-06-25 23:52:10] send failed
+
+[2025-06-25 23:52:10] First Frame sent successfully
+
+[2025-06-25 23:52:12] send failed
+
+[2025-06-25 23:52:12] First Frame sent successfully
+
+[2025-06-25 23:52:14] send failed
+
+[2025-06-25 23:52:14] First Frame sent successfully
+
+[2025-06-25 23:52:16] send failed
+
+[2025-06-25 23:52:16] First Frame sent successfully
+
+[2025-06-25 23:52:18] send failed
+
+[2025-06-25 23:52:18] First Frame sent successfully
+
+[2025-06-25 23:52:20] send failed
+

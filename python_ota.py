@@ -46,7 +46,7 @@ patch = 0
 build = 0
 cfg = 0
 app = 0
-XAVIER_OTA_BUS_ID = 0x555
+XAVIER_OTA_BUS_ID = 0x3FE
 
 def transmit_binaries_with_ack(can, content, ota_type, bus_id, device):
     chunk_size = 512
@@ -55,8 +55,7 @@ def transmit_binaries_with_ack(can, content, ota_type, bus_id, device):
     class FloatPercentage(progressbar.Widget):
         def update(self, pbar):
             return f"{pbar.percentage():.2f}%"  # Show percentage with 2 decimal places
-    bar = progressbar.ProgressBar(maxval=100, \
-    widgets=[progressbar.Bar('=', '[', ']'), ' ', FloatPercentage()])
+    bar = progressbar.ProgressBar(maxval=100, widgets=[progressbar.Bar('=', '[', ']'), ' ', FloatPercentage()])
     bar.start()
     for chunk_index in range(total_chunks):
         start = chunk_index * chunk_size
@@ -76,12 +75,11 @@ def transmit_binaries_with_ack(can, content, ota_type, bus_id, device):
 
         while retry_count < 10:
             if(can.send_message_on_can_tp2(bus_id, bus_id + 1, bin_message,2,0.0001)):
-                id_rx, data = can.receive_data_for_can_id(OTA_CAN_ID, 2)
+                id_rx, data = can.receive_data_for_can_id(OTA_CAN_ID, 100)
                 
                 if id_rx:
                     can.log_message("id_rx")
-                    if (data[0] == device and data[1] == 9 and data[2] == 0 and
-                        (data[3] == 1 or data[3] == StatusCodes.STATUS_CODE_FLASH_ALREADY_WRITTEN.value)):
+                    if (data[0] == device and data[1] == 9 and data[2] == 0 and (data[3] == 1 or data[3] == StatusCodes.STATUS_CODE_FLASH_ALREADY_WRITTEN.value)):
                         sent = True
                         retry_count = 0
                         break
@@ -214,7 +212,7 @@ if __name__ == "__main__":
                     if idRx:
                         if(data[0] ==device and data[1] == 9 and  data[3] == 1):
                             print("ota init successful")
-                            txComplete,errorCode = transmit_binaries_with_ack(can,app_bin_content,FOTA_MSG,XAVIER_OTA_BUS_ID,Device.XAVIER.value)
+                            txComplete,errorCode = transmit_binaries_with_ack(can,app_bin_content,FOTA_MSG,XAVIER_OTA_BUS_ID,Device.SOLARCORE.value)
                             if(txComplete == 1):
                                 print("Binary Transfer Complete!")
                                 print("switching partition")
@@ -260,11 +258,11 @@ if __name__ == "__main__":
                     COTA_INIT[4] = device
                     can.set_can_filters(OTA_CAN_ID,XAVIER_OTA_BUS_ID+1)
                     can.queue_message(OTA_CAN_ID,COTA_INIT)
-                    idRx,data=can.receive_data_for_can_id(OTA_CAN_ID,10)
+                    idRx,data=can.receive_data_for_can_id(OTA_CAN_ID,500)
                     if idRx:
                         if(data[0] == device and data[1] == 9 and  data[3] == 1):
                             print("cota init successful")
-                            txComplete,errorCode = transmit_binaries_with_ack(can,app_bin_content,COTA_MSG,XAVIER_OTA_BUS_ID,Device.XAVIER.value)
+                            txComplete,errorCode = transmit_binaries_with_ack(can,app_bin_content,COTA_MSG,XAVIER_OTA_BUS_ID,Device.SOLARCORE.value)
                             if(txComplete == 1):
                                     sleep(20)
                                     print("Binary Transfer Complete!")
@@ -272,7 +270,7 @@ if __name__ == "__main__":
                                     COTA_DONE[1] = device
                                     COTA_DONE[4] = device
                                     can.queue_message(OTA_CAN_ID,COTA_DONE)
-                                    idRx,data=can.receive_data_for_can_id(OTA_CAN_ID,10)
+                                    idRx,data=can.receive_data_for_can_id(OTA_CAN_ID,500)
                                     if idRx:
                                         if(data[0] ==device and data[1] == 9 and  data[3] == 1):
                                             print("COTA complete! Getting New Xavier Config Version")

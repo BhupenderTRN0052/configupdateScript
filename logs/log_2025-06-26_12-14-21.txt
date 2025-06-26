@@ -1,0 +1,32 @@
+[2025-06-26 12:14:21] Received: Timestamp: 1750920266.155933    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 12:14:21] Received: Timestamp: 1750920266.653577    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 12:14:22] Received: Timestamp: 1750920267.151233    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 12:14:22] Received: Timestamp: 1750920267.648876    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 12:15:16] Received: Timestamp: 1750920321.045728    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 12:15:21] Received: Timestamp: 1750920326.021476    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:26] Received: Timestamp: 1750920330.996883    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:31] Received: Timestamp: 1750920335.972074    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:36] Received: Timestamp: 1750920340.947862    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:41] Received: Timestamp: 1750920345.923526    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:46] Received: Timestamp: 1750920350.899159    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:51] Received: Timestamp: 1750920355.874746    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:15:56] Received: Timestamp: 1750920360.850909    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:16:00] Received: Timestamp: 1750920365.826676    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:16:05] Received: Timestamp: 1750920370.802086    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-06-26 12:16:10] Received: Timestamp: 1750920375.777793    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+

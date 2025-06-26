@@ -1,0 +1,16 @@
+[2025-06-26 16:49:28] Received: Timestamp: 1750936772.971537    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:49:28] Received: Timestamp: 1750936773.468638    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:49:29] Received: Timestamp: 1750936773.965812    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:49:29] Received: Timestamp: 1750936774.462914    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 16:49:34] Received: Timestamp: 1750936779.334942    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 16:49:34] First Frame sent successfully
+
+[2025-06-26 16:49:34] Received: Timestamp: 1750936779.365320    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 16:49:34] Message sent successfully
+

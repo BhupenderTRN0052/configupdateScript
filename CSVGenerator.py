@@ -38,7 +38,7 @@ def configCrc():
     return crc32Config
 
 def getConfigStr():
-    str = "{},{},{},{},{},{},{},{},{},{},{},{},{},{}".format(
+    str = "{},{},{},{},{},{},{},{},{},{},{},{},{}".format(
         config["VersionMinor"],
         config["VersionMajor"],
         config["VersionPatch"],
@@ -52,7 +52,6 @@ def getConfigStr():
         config["UnderVolatgeLimit"],
         config["OverVolatgeLimit"],
         config["OverCurrentLimit"],
-        configCrc()
     )
     print(str)
     return str

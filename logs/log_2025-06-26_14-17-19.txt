@@ -1,0 +1,510 @@
+[2025-06-26 14:17:20] Received: Timestamp: 1750927645.193555    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 14:17:20] Received: Timestamp: 1750927645.690772    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 14:17:21] Received: Timestamp: 1750927646.187959    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 14:17:21] Received: Timestamp: 1750927646.685175    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-26 14:17:26] Received: Timestamp: 1750927651.358739    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 14:17:26] First Frame sent successfully
+
+[2025-06-26 14:17:28] send failed
+
+[2025-06-26 14:17:28] First Frame sent successfully
+
+[2025-06-26 14:17:30] send failed
+
+[2025-06-26 14:17:30] First Frame sent successfully
+
+[2025-06-26 14:17:30] Received: Timestamp: 1750927655.544755    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:30] Message sent successfully
+
+[2025-06-26 14:17:32] Received: Timestamp: 1750927656.887533    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:32] no id_rx
+
+[2025-06-26 14:17:32] First Frame sent successfully
+
+[2025-06-26 14:17:33] Received: Timestamp: 1750927657.894352    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:33] Message sent successfully
+
+[2025-06-26 14:17:35] no id_rx
+
+[2025-06-26 14:17:35] First Frame sent successfully
+
+[2025-06-26 14:17:37] send failed
+
+[2025-06-26 14:17:37] First Frame sent successfully
+
+[2025-06-26 14:17:39] send failed
+
+[2025-06-26 14:17:39] First Frame sent successfully
+
+[2025-06-26 14:17:41] send failed
+
+[2025-06-26 14:17:41] First Frame sent successfully
+
+[2025-06-26 14:17:43] send failed
+
+[2025-06-26 14:17:43] First Frame sent successfully
+
+[2025-06-26 14:17:44] Received: Timestamp: 1750927669.207518    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:44] Message sent successfully
+
+[2025-06-26 14:17:45] Received: Timestamp: 1750927670.310891    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:46] no id_rx
+
+[2025-06-26 14:17:46] First Frame sent successfully
+
+[2025-06-26 14:17:46] Received: Timestamp: 1750927671.419093    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:46] Message sent successfully
+
+[2025-06-26 14:17:48] no id_rx
+
+[2025-06-26 14:17:48] First Frame sent successfully
+
+[2025-06-26 14:17:48] Received: Timestamp: 1750927673.532772    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:17:48] Message sent successfully
+
+[2025-06-26 14:17:50] no id_rx
+
+[2025-06-26 14:17:50] First Frame sent successfully
+
+[2025-06-26 14:17:52] send failed
+
+[2025-06-26 14:17:52] First Frame sent successfully
+
+[2025-06-26 14:17:54] send failed
+
+[2025-06-26 14:17:54] First Frame sent successfully
+
+[2025-06-26 14:17:56] send failed
+
+[2025-06-26 14:17:56] First Frame sent successfully
+
+[2025-06-26 14:17:59] send failed
+
+[2025-06-26 14:17:59] First Frame sent successfully
+
+[2025-06-26 14:18:01] send failed
+
+[2025-06-26 14:18:01] First Frame sent successfully
+
+[2025-06-26 14:18:03] send failed
+
+[2025-06-26 14:18:03] First Frame sent successfully
+
+[2025-06-26 14:18:05] send failed
+
+[2025-06-26 14:18:05] First Frame sent successfully
+
+[2025-06-26 14:18:05] Received: Timestamp: 1750927690.865451    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:05] Message sent successfully
+
+[2025-06-26 14:18:07] Received: Timestamp: 1750927691.967020    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 14:18:07] id_rx
+
+[2025-06-26 14:18:07] First Frame sent successfully
+
+[2025-06-26 14:18:07] Received: Timestamp: 1750927691.967660    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:07] Message sent successfully
+
+[2025-06-26 14:18:08] Received: Timestamp: 1750927693.068089    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:09] Received: Timestamp: 1750927693.972379    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:09] no id_rx
+
+[2025-06-26 14:18:09] First Frame sent successfully
+
+[2025-06-26 14:18:11] send failed
+
+[2025-06-26 14:18:11] First Frame sent successfully
+
+[2025-06-26 14:18:13] send failed
+
+[2025-06-26 14:18:13] First Frame sent successfully
+
+[2025-06-26 14:18:14] Received: Timestamp: 1750927699.020668    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:14] Message sent successfully
+
+[2025-06-26 14:18:16] no id_rx
+
+[2025-06-26 14:18:16] First Frame sent successfully
+
+[2025-06-26 14:18:18] send failed
+
+[2025-06-26 14:18:18] First Frame sent successfully
+
+[2025-06-26 14:18:18] Received: Timestamp: 1750927703.237780    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:18] Message sent successfully
+
+[2025-06-26 14:18:19] Received: Timestamp: 1750927704.449877    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:20] no id_rx
+
+[2025-06-26 14:18:20] First Frame sent successfully
+
+[2025-06-26 14:18:20] Received: Timestamp: 1750927705.559266    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:20] Message sent successfully
+
+[2025-06-26 14:18:22] no id_rx
+
+[2025-06-26 14:18:22] First Frame sent successfully
+
+[2025-06-26 14:18:23] Received: Timestamp: 1750927708.604635    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:23] Message sent successfully
+
+[2025-06-26 14:18:25] no id_rx
+
+[2025-06-26 14:18:25] First Frame sent successfully
+
+[2025-06-26 14:18:26] Received: Timestamp: 1750927711.316484    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:26] Message sent successfully
+
+[2025-06-26 14:18:28] no id_rx
+
+[2025-06-26 14:18:28] First Frame sent successfully
+
+[2025-06-26 14:18:30] send failed
+
+[2025-06-26 14:18:30] First Frame sent successfully
+
+[2025-06-26 14:18:32] Received: Timestamp: 1750927717.484311    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-26 14:18:32] send failed
+
+[2025-06-26 14:18:32] First Frame sent successfully
+
+[2025-06-26 14:18:34] Received: Timestamp: 1750927719.130779    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:34] Message sent successfully
+
+[2025-06-26 14:18:35] Received: Timestamp: 1750927720.035181    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:36] Received: Timestamp: 1750927721.142821    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:36] no id_rx
+
+[2025-06-26 14:18:36] First Frame sent successfully
+
+[2025-06-26 14:18:38] send failed
+
+[2025-06-26 14:18:38] First Frame sent successfully
+
+[2025-06-26 14:18:40] send failed
+
+[2025-06-26 14:18:40] First Frame sent successfully
+
+[2025-06-26 14:18:42] send failed
+
+[2025-06-26 14:18:42] First Frame sent successfully
+
+[2025-06-26 14:18:44] send failed
+
+[2025-06-26 14:18:44] First Frame sent successfully
+
+[2025-06-26 14:18:46] send failed
+
+[2025-06-26 14:18:46] First Frame sent successfully
+
+[2025-06-26 14:18:48] send failed
+
+[2025-06-26 14:18:48] First Frame sent successfully
+
+[2025-06-26 14:18:50] send failed
+
+[2025-06-26 14:18:50] First Frame sent successfully
+
+[2025-06-26 14:18:52] send failed
+
+[2025-06-26 14:18:52] First Frame sent successfully
+
+[2025-06-26 14:18:55] send failed
+
+[2025-06-26 14:18:55] First Frame sent successfully
+
+[2025-06-26 14:18:57] send failed
+
+[2025-06-26 14:18:57] First Frame sent successfully
+
+[2025-06-26 14:18:57] Received: Timestamp: 1750927742.738508    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:57] Message sent successfully
+
+[2025-06-26 14:18:58] Received: Timestamp: 1750927743.843320    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:18:59] no id_rx
+
+[2025-06-26 14:18:59] First Frame sent successfully
+
+[2025-06-26 14:19:02] send failed
+
+[2025-06-26 14:19:02] First Frame sent successfully
+
+[2025-06-26 14:19:02] Received: Timestamp: 1750927747.763491    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:02] Message sent successfully
+
+[2025-06-26 14:19:03] Received: Timestamp: 1750927748.772425    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:04] no id_rx
+
+[2025-06-26 14:19:04] First Frame sent successfully
+
+[2025-06-26 14:19:05] Received: Timestamp: 1750927750.792720    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:05] Message sent successfully
+
+[2025-06-26 14:19:07] Received: Timestamp: 1750927752.690804    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:07] no id_rx
+
+[2025-06-26 14:19:07] First Frame sent successfully
+
+[2025-06-26 14:19:09] send failed
+
+[2025-06-26 14:19:09] First Frame sent successfully
+
+[2025-06-26 14:19:12] send failed
+
+[2025-06-26 14:19:12] First Frame sent successfully
+
+[2025-06-26 14:19:14] send failed
+
+[2025-06-26 14:19:14] First Frame sent successfully
+
+[2025-06-26 14:19:16] send failed
+
+[2025-06-26 14:19:16] First Frame sent successfully
+
+[2025-06-26 14:19:18] send failed
+
+[2025-06-26 14:19:18] First Frame sent successfully
+
+[2025-06-26 14:19:20] send failed
+
+[2025-06-26 14:19:20] First Frame sent successfully
+
+[2025-06-26 14:19:22] send failed
+
+[2025-06-26 14:19:22] First Frame sent successfully
+
+[2025-06-26 14:19:24] send failed
+
+[2025-06-26 14:19:24] First Frame sent successfully
+
+[2025-06-26 14:19:26] send failed
+
+[2025-06-26 14:19:26] First Frame sent successfully
+
+[2025-06-26 14:19:28] send failed
+
+[2025-06-26 14:19:28] First Frame sent successfully
+
+[2025-06-26 14:19:30] send failed
+
+[2025-06-26 14:19:30] First Frame sent successfully
+
+[2025-06-26 14:19:32] send failed
+
+[2025-06-26 14:19:32] First Frame sent successfully
+
+[2025-06-26 14:19:34] send failed
+
+[2025-06-26 14:19:34] First Frame sent successfully
+
+[2025-06-26 14:19:36] Received: Timestamp: 1750927781.410162    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:36] Message sent successfully
+
+[2025-06-26 14:19:38] no id_rx
+
+[2025-06-26 14:19:38] First Frame sent successfully
+
+[2025-06-26 14:19:39] Received: Timestamp: 1750927784.581343    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:39] Message sent successfully
+
+[2025-06-26 14:19:39] Received: Timestamp: 1750927784.588042    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:39] Received: Timestamp: 1750927784.597983    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-26 14:19:41] no id_rx
+
+[2025-06-26 14:19:41] First Frame sent successfully
+
+[2025-06-26 14:19:43] send failed
+
+[2025-06-26 14:19:43] First Frame sent successfully
+
+[2025-06-26 14:19:45] send failed
+
+[2025-06-26 14:19:45] First Frame sent successfully
+
+[2025-06-26 14:19:48] send failed
+
+[2025-06-26 14:19:48] First Frame sent successfully
+
+[2025-06-26 14:19:50] send failed
+
+[2025-06-26 14:19:50] First Frame sent successfully
+
+[2025-06-26 14:19:52] send failed
+
+[2025-06-26 14:19:52] First Frame sent successfully
+
+[2025-06-26 14:19:54] send failed
+
+[2025-06-26 14:19:54] First Frame sent successfully
+
+[2025-06-26 14:19:56] send failed
+
+[2025-06-26 14:19:56] First Frame sent successfully
+
+[2025-06-26 14:19:58] send failed
+
+[2025-06-26 14:19:58] First Frame sent successfully
+
+[2025-06-26 14:20:00] send failed
+
+[2025-06-26 14:20:00] First Frame sent successfully
+
+[2025-06-26 14:20:02] send failed
+
+[2025-06-26 14:20:02] First Frame sent successfully
+
+[2025-06-26 14:20:04] send failed
+
+[2025-06-26 14:20:04] First Frame sent successfully
+
+[2025-06-26 14:20:06] send failed
+
+[2025-06-26 14:20:06] First Frame sent successfully
+
+[2025-06-26 14:20:08] send failed
+
+[2025-06-26 14:20:08] First Frame sent successfully
+
+[2025-06-26 14:20:10] send failed
+
+[2025-06-26 14:20:10] First Frame sent successfully
+
+[2025-06-26 14:20:13] send failed
+
+[2025-06-26 14:20:13] First Frame sent successfully
+
+[2025-06-26 14:20:15] send failed
+
+[2025-06-26 14:20:15] First Frame sent successfully
+
+[2025-06-26 14:20:17] send failed
+
+[2025-06-26 14:20:17] First Frame sent successfully
+
+[2025-06-26 14:20:19] send failed
+
+[2025-06-26 14:20:19] First Frame sent successfully
+
+[2025-06-26 14:20:21] send failed
+
+[2025-06-26 14:20:21] First Frame sent successfully
+
+[2025-06-26 14:20:23] send failed
+
+[2025-06-26 14:20:23] First Frame sent successfully
+
+[2025-06-26 14:20:25] send failed
+
+[2025-06-26 14:20:25] First Frame sent successfully
+
+[2025-06-26 14:20:27] send failed
+
+[2025-06-26 14:20:27] First Frame sent successfully
+
+[2025-06-26 14:20:29] send failed
+
+[2025-06-26 14:20:29] First Frame sent successfully
+
+[2025-06-26 14:20:31] send failed
+
+[2025-06-26 14:20:31] First Frame sent successfully
+
+[2025-06-26 14:20:33] send failed
+
+[2025-06-26 14:20:33] First Frame sent successfully
+
+[2025-06-26 14:20:35] send failed
+
+[2025-06-26 14:20:35] First Frame sent successfully
+
+[2025-06-26 14:20:37] send failed
+
+[2025-06-26 14:20:37] First Frame sent successfully
+
+[2025-06-26 14:20:40] send failed
+
+[2025-06-26 14:20:40] First Frame sent successfully
+
+[2025-06-26 14:20:42] send failed
+
+[2025-06-26 14:20:42] First Frame sent successfully
+
+[2025-06-26 14:20:44] send failed
+
+[2025-06-26 14:20:44] First Frame sent successfully
+
+[2025-06-26 14:20:46] send failed
+
+[2025-06-26 14:20:46] First Frame sent successfully
+
+[2025-06-26 14:20:48] send failed
+
+[2025-06-26 14:20:48] First Frame sent successfully
+
+[2025-06-26 14:20:50] send failed
+
+[2025-06-26 14:20:50] First Frame sent successfully
+
+[2025-06-26 14:20:52] send failed
+
+[2025-06-26 14:20:52] First Frame sent successfully
+
+[2025-06-26 14:20:54] send failed
+
+[2025-06-26 14:20:54] First Frame sent successfully
+
+[2025-06-26 14:20:56] send failed
+
+[2025-06-26 14:20:56] First Frame sent successfully
+
+[2025-06-26 14:20:58] send failed
+
+[2025-06-26 14:20:58] First Frame sent successfully
+
+[2025-06-26 14:21:00] send failed
+
+[2025-06-26 14:21:00] First Frame sent successfully
+
+[2025-06-26 14:21:02] send failed
+
+[2025-06-26 14:21:02] First Frame sent successfully
+
+[2025-06-26 14:21:04] send failed
+
