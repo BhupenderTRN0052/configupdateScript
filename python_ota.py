@@ -223,7 +223,7 @@ if __name__ == "__main__":
                                 idRx,data=can.receive_data_for_can_id(OTA_CAN_ID,10)
                                 if idRx:
                                     if(data[0] ==device and data[1] == 9 and  data[3] == 1):
-                                        print("OTA complete! Getting New Xavier Version")
+                                        print("OTA complete! Getting New SolarCore Version")
                                         sleep(20)
                                         can.set_can_filters(VERSION_CAN_ID)
                                         if(get_xavier_version(can,device)):
@@ -273,13 +273,13 @@ if __name__ == "__main__":
                                     idRx,data=can.receive_data_for_can_id(OTA_CAN_ID,500)
                                     if idRx:
                                         if(data[0] ==device and data[1] == 9 and  data[3] == 1):
-                                            print("COTA complete! Getting New Xavier Config Version")
+                                            print("COTA complete! Getting New SolarCore Config Version")
                                             sleep(20)
                                             can.set_can_filters(VERSION_CAN_ID)
                                             if(get_xavier_version(can,device)):
                                                 print(f"Found Version {major:2x},{minor:2x},{patch:2x}")
                                                 print(f"config version {cfg}")
-                                                print(f"Current App {app}")
+                                                print(f"Current App {app} -> not using right now" )
                                         else:
                                             print(f"Config Update failed due to error {data[3]}")
                         else:

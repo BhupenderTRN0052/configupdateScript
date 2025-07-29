@@ -1,0 +1,58 @@
+[2025-06-27 15:05:04] Received: Timestamp: 1751016912.239228    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 15:05:05] Received: Timestamp: 1751016912.736842    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 15:05:05] Received: Timestamp: 1751016913.234485    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 15:05:06] Received: Timestamp: 1751016913.732099    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 15:05:11] Received: Timestamp: 1751016919.235741    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-27 15:05:11] First Frame sent successfully
+
+[2025-06-27 15:05:11] Received: Timestamp: 1751016919.266162    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-27 15:05:11] Message sent successfully
+
+[2025-06-27 15:06:51] no id_rx
+
+[2025-06-27 15:06:51] First Frame sent successfully
+
+[2025-06-27 15:06:54] send failed
+
+[2025-06-27 15:06:54] First Frame sent successfully
+
+[2025-06-27 15:06:56] send failed
+
+[2025-06-27 15:06:56] First Frame sent successfully
+
+[2025-06-27 15:06:58] send failed
+
+[2025-06-27 15:06:58] First Frame sent successfully
+
+[2025-06-27 15:07:00] send failed
+
+[2025-06-27 15:07:00] First Frame sent successfully
+
+[2025-06-27 15:07:02] send failed
+
+[2025-06-27 15:07:02] First Frame sent successfully
+
+[2025-06-27 15:07:04] send failed
+
+[2025-06-27 15:07:04] First Frame sent successfully
+
+[2025-06-27 15:07:06] send failed
+
+[2025-06-27 15:07:06] First Frame sent successfully
+
+[2025-06-27 15:07:08] send failed
+
+[2025-06-27 15:07:08] First Frame sent successfully
+
+[2025-06-27 15:07:10] send failed
+
+[2025-06-27 15:07:43] Received: Timestamp: 1751017070.420141    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-27 15:07:43] Received: Timestamp: 1751017070.429783    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+

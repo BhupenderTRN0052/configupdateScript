@@ -1,0 +1,24 @@
+[2025-07-28 19:04:37] Received: Timestamp: 1753709696.571910    ID:      7a1    S Rx                DL:  8    07 00 00 10 00 01 00 00
+
+[2025-07-28 19:04:37] Received: Timestamp: 1753709697.068841    ID:      7a1    S Rx                DL:  8    07 00 00 10 00 01 00 00
+
+[2025-07-28 19:04:38] Received: Timestamp: 1753709697.565888    ID:      7a1    S Rx                DL:  8    07 00 00 10 00 01 00 00
+
+[2025-07-28 19:04:38] Received: Timestamp: 1753709698.062818    ID:      7a1    S Rx                DL:  8    07 00 00 10 00 01 00 00
+
+[2025-07-28 19:04:58] Received: Timestamp: 1753709717.970274    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:05:48] Received: Timestamp: 1753709767.667628    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:06:38] Received: Timestamp: 1753709817.363806    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:07:27] Received: Timestamp: 1753709867.057045    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:08:17] Received: Timestamp: 1753709916.748902    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:09:07] Received: Timestamp: 1753709966.443496    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:09:56] Received: Timestamp: 1753710016.137156    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+
+[2025-07-28 19:10:46] Received: Timestamp: 1753710065.831779    ID:      6fa    S Rx                DL:  5    07 09 00 02 07
+

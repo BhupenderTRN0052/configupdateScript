@@ -1,0 +1,60 @@
+[2025-06-27 16:21:50] Received: Timestamp: 1751021517.677272    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 16:21:50] Received: Timestamp: 1751021518.174927    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 16:21:51] Received: Timestamp: 1751021518.672626    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 16:21:51] Received: Timestamp: 1751021519.170269    ID:      7a1    S Rx                DL:  8    07 00 00 09 00 01 00 00
+
+[2025-06-27 16:21:56] Received: Timestamp: 1751021524.176725    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-27 16:21:56] First Frame sent successfully
+
+[2025-06-27 16:21:56] Received: Timestamp: 1751021524.217087    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-27 16:21:56] Message sent successfully
+
+[2025-06-27 16:23:36] no id_rx
+
+[2025-06-27 16:23:36] First Frame sent successfully
+
+[2025-06-27 16:23:38] send failed
+
+[2025-06-27 16:23:38] First Frame sent successfully
+
+[2025-06-27 16:23:41] send failed
+
+[2025-06-27 16:23:41] First Frame sent successfully
+
+[2025-06-27 16:23:43] send failed
+
+[2025-06-27 16:23:43] First Frame sent successfully
+
+[2025-06-27 16:23:45] send failed
+
+[2025-06-27 16:23:45] First Frame sent successfully
+
+[2025-06-27 16:23:47] send failed
+
+[2025-06-27 16:23:47] First Frame sent successfully
+
+[2025-06-27 16:23:49] send failed
+
+[2025-06-27 16:23:49] First Frame sent successfully
+
+[2025-06-27 16:23:51] send failed
+
+[2025-06-27 16:23:51] First Frame sent successfully
+
+[2025-06-27 16:23:53] send failed
+
+[2025-06-27 16:23:53] First Frame sent successfully
+
+[2025-06-27 16:23:55] send failed
+
+[2025-06-27 16:25:23] Received: Timestamp: 1751021731.289085    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
+[2025-06-27 16:25:23] Received: Timestamp: 1751021731.299539    ID:      6fa    S Rx                DL:  5    07 09 00 01 07
+
+[2025-06-27 16:25:23] Received: Timestamp: 1751021731.309138    ID:      3ff    S Rx                DL:  8    30 00 00 00 00 00 00 00
+
